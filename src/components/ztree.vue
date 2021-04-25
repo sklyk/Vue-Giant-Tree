@@ -9,6 +9,7 @@ if (!window.jQuery) {
 }
 
 require("@ztree/ztree_v3/js/jquery.ztree.all");
+require("@ztree/ztree_v3/js/jquery.ztree.exhide");
 
 export default {
   props: {
